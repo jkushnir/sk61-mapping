@@ -1,0 +1,11 @@
+{
+	"Type": "Static",
+	"Data": {
+		"Esc": "0xff0000",
+		"LCtrl": "0xff0000",
+		"RCtrl": "0xff0000",
+		"LAlt": "0xff0000",
+		"RAlt": "0x00ff00",
+		"CapsLock": "0x00ff00",
+	}
+}

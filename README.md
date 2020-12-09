@@ -1,10 +1,10 @@
 # sk61-mapping
 My keyboard mapping and color schemes
 
-## CapsLock 
+#### CapsLock 
 - hjkl navigation
 
-## Right Alt
+#### Right Alt
 - numpad on left hand, space for zero
 - backspace for delete
 - F keys on number row

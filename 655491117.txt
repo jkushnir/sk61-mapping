@@ -12,6 +12,8 @@ J:Down
 K:Up
 L:Right
 CapsLock:Disabled
+Comma:BackTick
+Period:Backslash
 
 [Layer3]
 CapsLock:Disabled
@@ -25,8 +27,6 @@ Z:D7
 X:D8
 C:D9
 Space:D0
-Comma:BackTick
-Period:Backslash
 Backspace:Delete
 D1:F1
 D2:F2

@@ -1,6 +1,8 @@
 {
 	"Type": "Static",
 	"Data": {
+		"Comma": "0xff0000",
+		"Period": "0xff0000",
 		"H": "0xff00ff",
 		"J": "0xff00ff",
 		"K": "0xff00ff",
